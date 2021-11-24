@@ -1,8 +1,14 @@
 # Instaverse Blog Application
 
-A fullstack social-media application that allows users to share their memorable moments with others. Users can create, edit, or delete their own posts. They can also like and comment on other people's posts.
+A fullstack social-media application that allows users to share their pictures with others. Users can create, edit, or delete their own posts. 
 
-Link to the application: https://laughing-swartz-ff3afc.netlify.app/
+## Link
+
+<a href="https://laughing-swartz-ff3afc.netlify.app/">Instaverse Blog Application</a>
+
+## Screenshot
+![Instaverse](https://user-images.githubusercontent.com/84324251/143278382-d158f51e-6f14-41ba-8a49-c76f9ad8ab34.png)
+
 
 ## Lessons learned
 
@@ -20,9 +26,9 @@ Link to the application: https://laughing-swartz-ff3afc.netlify.app/
 
 - CRUD functionalities
 - Picture upload
-- Likes, and Different Text Inputs For The Posts
+- Likes, and Different Text Fields For The Posts
 
-## Tools and technologies used
+## 🛠 Tools and technologies used
 
 - React
 - Nodejs/Express
