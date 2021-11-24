@@ -14,7 +14,7 @@ Link to the application: https://laughing-swartz-ff3afc.netlify.app/
 - How to create schemas and models, and make queries using Mongoose
 - How to implement routing and create controllers
 - How to structure a fullstack application using the client-server architecture
-- How to deploy a fullstack JavaScript application
+- How to deploy a fullstack React application
 
 ## Features
 
