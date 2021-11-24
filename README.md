@@ -1,4 +1,4 @@
-# Instaverse
+# Instaverse Blog Application
 
 A fullstack social-media application that allows users to share their memorable moments with others. Users can create, edit, or delete their own posts. They can also like and comment on other people's posts.
 
