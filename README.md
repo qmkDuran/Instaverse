@@ -18,9 +18,8 @@ A fullstack social-media application that allows users to share their pictures w
 - How to create an Node and Express server
 - How to set up a MongoDB database (cluster on MongoDB Atlas)
 - How to create schemas and models, and make queries using Mongoose
-- How to implement routing and create controllers
 - How to structure a fullstack application using the client-server architecture
-- How to deploy a fullstack React application
+- How to deploy a fullstack React application on Netlify for front-end and Heroku for back-end
 
 ## Features
 
