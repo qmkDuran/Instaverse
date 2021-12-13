@@ -51,7 +51,7 @@ $ cd server
 # Install dependencies
 $ npm install
 
-# run the server
+# Run the server
 $ npm start
 
 ```
@@ -65,7 +65,7 @@ $ cd client
 $ Install dependencies
 $ npm install
 
-$ run the client app
+$ Run the client app
 $ npm start
 ```
 
