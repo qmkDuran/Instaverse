@@ -4,7 +4,7 @@ A fullstack social-media application that allows users to share their pictures w
 
 ## Link
 
-<a href="https://laughing-swartz-ff3afc.netlify.app/">Instaverse Blog Application</a>
+<a href="https://instaverseblog.netlify.app/">Instaverse Blog Application</a>
 
 ## Screenshot
 ![Instaverse](https://user-images.githubusercontent.com/84324251/143278382-d158f51e-6f14-41ba-8a49-c76f9ad8ab34.png)
